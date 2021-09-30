@@ -27,3 +27,5 @@ public class funcOverPoly {
         obj.show('a'); // char one, if char missing then int Type casting rule applies
     }
 }
+
+/* Changing the return type will not affect overloading as , when we invole function we call the name not with the return type */

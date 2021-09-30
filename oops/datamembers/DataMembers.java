@@ -1,5 +1,6 @@
+
 public class DataMembers {
-    String name;
+    String name; // instance or class level
     static String cname = "ABC"; // static initialization
 
     static int add(int x, int y){return x+y;} // not related to object thus keeping this as static
